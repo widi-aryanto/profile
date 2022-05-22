@@ -1,6 +1,6 @@
 import React from "react";
 import styled from 'styled-components';
-import { grayLight, themeColor } from './src/styleguide/colors';
+import { grayLight, themeColor } from './styleguide/colors';
 
 const StyledLink = styled.a`
   color: ${grayLight};

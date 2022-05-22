@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { ProfileImage } from './profile-image'
 import { Background } from './background';
-import { headerHeight } from './src/styleguide/breakpoints'
+import { headerHeight } from './styleguide/breakpoints'
 
 const StyledHeader = styled.header`
   position:relative;

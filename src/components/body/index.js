@@ -6,7 +6,7 @@ import { name, location, biography, socialLinks} from "./../../profile.json";
 import { Biography } from './biography';
 import { SocialArea } from './social-area';
 import { Footer } from '../footer';
-import { headerHeight } from 'styleguide/breakpoints';
+import { headerHeight } from './src/styleguide/breakpoints';
 console.log(headerHeight);
 const StyledContent = styled.main`
   text-align:center;

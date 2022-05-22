@@ -1,0 +1,35 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "Web Profile Muhamad Widi Aryanto Submission Menjadi Google Cloud Engineer Proyek 1 Dicoding",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "profile",
+    "web",
+    "profile-web"
+  ],
+  "author": "Muhamad Widi Aryanto",
+  "license": "None",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-plugin-module-resolver": "^3.1.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "node-sass": "^4.13.1",
+    "parcel-bundler": "^1.10.3"
+  },
+  "dependencies": {
+    "assets": "^3.0.0",
+    "font-awesome": "^4.7.0",
+    "ramda": "^0.25.0",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "styled": "^1.0.0",
+    "styled-components": "^3.4.5"
+  }
+}
